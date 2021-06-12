@@ -24,3 +24,16 @@ The struggle for the crown among the members of Chola dynasty. The inside conspi
 
 தியாக சிகரம் (transl. The Pinnacle of Sacrifice) - 91 records
 The Climax is being set. The conspiracy is broken due to lack of motivation and the head of conspiracy comes to senses. The rulers are reunited and the danger is averted. The rightful prince offer the throne to his cousin out of magnanimity. The tragic deaths of the main characters also adds sorrow to the fact that the story ends.
+
+This dataset is extracted from the - https://www.projectmadurai.org/
+Project Madurai
+
+Electronic versions of printed texts (abbreviated as Etexts) of ancient literary works are important pedagoic and scholarly resources. Stored in easily accessible archives, they permit preservation and wider distribution of ancient literary works around the globe through the means of internet. Etexts of literary works also allow quick search for phrases, words, and combinations of words in any literary work. There are many projects currently active world-wide that attempts to put in electronic form ancient literary works.
+
+Project Madurai is an open and voluntary initiative to collect and publish free electronic editions of ancient tamil literary classics. This means either typing-in or scanning old books and archiving the text in one of the most readily accessible formats ("ETEXTS") for use on all popular computer platforms. All etexts will be distributed in both web/html and PDF formats.- Distributed through the World Wide Web servers , anyone located anywhere may download a copy for personal use or read what we publish on the internet, free of charge.
+
+Since its launch in 1998, Project Madurai etexts are released in Tamil script form as per TSCII (Tamil Script Code for Information Interchange) encoding. Since 2004 we have started releasing etexts in Tamil unicode. Etexts are also made available in epub and kindle formats for use in mobile platforms/portable devices such as e-book readers.
+
+Distribution of the etext collections of Project Madurai by third parties is permitted, provided the header page containing the Project Logo and credit acknowledgements are kept intact. Please contact the Project Coordinators before online distribution.
+
+The project will be coordinated by a handful of volunteers, most of which have Project Madurai s as their hobby, just like you! Anyone who would like to contribute can join this project. Simply send an email note to Project Coordinators.
